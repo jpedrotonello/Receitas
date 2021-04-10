@@ -1,13 +1,14 @@
-# Alura cursos online - Fundamentos Django 2 (Parte 2): Uma aplicação web
+# Project developed during the Django training
 
-Projeto da Alura cursos online, desenvolvido em Python3 com framework Django
+Project developed over the first four training courses on Fundamentals of Django
 
-## Projeto final aula 2
+## Scope of the project
 
-Nessa aula:
+Recipe site, where each user registered on the site can access the available recipes, create and edit their own recipes
 
-- Criamos o app de `pessoas`, criamos um modelo com `nome` e `email` e realizamos a migração;
+## Knowledge acquired over the four courses
 
-- Integramos o modelo de receita com o modelo de pessoa, indicando quem postou a receita;
-
-- Influímos a função `__str__` para retornar o nome  da pessoa no admin no lugar de `Pessoa object`.
+1. Introduction to Django 3: Model, routes and Views
+2. Template Integration: Filters, searches and admin options
+3. Authentication: forms, requests and messages
+4. Good practices in Django 3: pagination and app organization
